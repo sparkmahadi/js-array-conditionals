@@ -11,4 +11,7 @@ if (math == true) {
             console.log('baka pothe cholba na')
         }
     }
+    else (
+        console.log('pithagoras hoite parba na')
+    )
 }
